@@ -1,0 +1,31 @@
+.jumbotron-home {
+    padding-top: 0;
+    background-color: white;
+    /* border: 1px solid black */
+    display: flex;
+  
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.cpm-title {
+    margin-top: 0;
+    width: 700px;
+}
+
+.cpm-mic {
+    width: 200px;
+    margin-right: 0;
+    filter: sepia(70%);
+}
+
+.cpm-title2 {
+    
+    margin-top: 0;
+    width: 400px;
+    bottom: 0;
+}

@@ -1,0 +1,11 @@
+.nav-container {
+    padding-top: 0;
+}
+.nav-text {
+    color: black !important;
+    padding: 10px;
+}
+.logo {
+    height: 90px;
+    filter: sepia(70%);
+}
